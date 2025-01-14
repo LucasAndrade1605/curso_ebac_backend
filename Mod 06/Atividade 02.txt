@@ -1,0 +1,19 @@
+Parte 02
+Faça um algoritmo em portugol da hora de acordar, o passo a passo:
+
+Início
+   cadeia resposta
+
+   Escreva("O alarme toca para acordar.")
+
+   Escreva("Deseja continuar dormindo? (Sim/Não)")
+   Leia(resposta)
+
+   Se (resposta = "Sim") então
+       Escreva("Coloque o alarme para tocar novamente em alguns minutos.")
+       Escreva("Volte a dormir.")
+   Senao
+       Escreva("Levante-se da cama.")
+       Escreva("Lave o rosto e escove os dentes.")
+   FimSe
+Fim
